@@ -32,7 +32,16 @@
 # print(name.find('i'))
 # print(name.replace("Prithviraj", "Rahul"))
 
-#Finding char/str in string
-name1 = "Prithviraj"
-print("raj" in name1)
-print("rahul" in name1)
+# #Finding char/str in string
+# name1 = "Prithviraj"
+# print("raj" in name1)
+# print("rahul" in name1)
+
+#Arithematic operator
+print(5+3)  #Addition
+print(5-3)  #Subtraction
+print(5*3)  #Multipication
+print(5/3)  #Division
+print(5//3) #Division without showing decimal
+print(5%3)  #Modulo
+print(5**3) #power operator
